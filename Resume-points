@@ -1,18 +1,18 @@
-Shift left
-DevSecOps
-Build once and run anywhere
-Centralised Pipelines
-Branching strategy
-Infra as a code
+Shift left ----> Reducing some percentage of defects in QA and PROD
+DevSecOps-----> reducing security-related issues to some percentage
+Build once and run anywhere--> improved the build process with more reliability
+Centralised Pipelines--> increased efficiency of the resource and reduced project cost
+Branching strategy--> moved from fit flow to feature branching to support agile-based micro service
+Infra as a code--> developed modules to achieve consistent infra
 Configuration management
-EKS upgrade
+EKS upgrade--> achieved zero downtime upgrades
 Terraform modules development
-Optimising Docker images
+Optimising Docker images--> reduced build down with greater security
 Using Helm Charts
 Legacy VM applications and Microservices
 
 Project onboarding
-Project maintainance
+Project maintenance
 Project improvements
 Project changes
 Project upgrades
